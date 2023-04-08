@@ -38,6 +38,9 @@ ul {
 .link{
   text-decoration: none;
 }
+.hader{
+  border-bottom: 1px solid #e7e9fc;
+}
 
 .container{
 display: flex;
@@ -76,7 +79,10 @@ width: 1158px;
 .address:hover,
 .address:focus {
   color:#404BBF;
+  
   }
+
+
 .link {
   text-decoration: none;
 }
@@ -87,6 +93,9 @@ width: 1158px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+  display: flex; 
+  gap: 40px;
+  padding: 24px 0 24px;
 }
 .list {
   list-style: none;
@@ -100,6 +109,8 @@ width: 1158px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: inherit;
+  display: flex;
+  gap: 40px 
 }
 
 
