@@ -38,7 +38,7 @@ ul {
 .link{
   text-decoration: none;
 }
-.hader{
+.header{
   border-bottom: 1px solid #e7e9fc;
 }
 
@@ -54,14 +54,7 @@ width: 1158px;
 
 }
 
-.section-hero-title{
 
-width: 496px;
-height: 120px;
-left: 472px;
-top: 260px;
-
-}
 
 .logo{
   font-family: 'Raleway',sans-serif;
