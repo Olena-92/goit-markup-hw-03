@@ -118,6 +118,7 @@ width: 1158px;
 
 .section-hero {
   background-color: #2e2f42;
+  max-width: 496px; 
   
 }
 
@@ -132,6 +133,10 @@ width: 1158px;
 
 .btn-cursor {
   cursor: pointer;
+  min-width: 169px;
+  height: 56px;
+  border: none;
+  border-radius: 4px;
 }
 
 .section-hero-button {
