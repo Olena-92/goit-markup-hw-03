@@ -113,9 +113,9 @@ width: 1158px;
   color: inherit;
   
 }
-.address{
-  display: flex;
-  gap: 40px;
+nav .menu-item:not(:last-child) {
+  margin-right: 40px;
+  display: flex; 
 }
 
  
