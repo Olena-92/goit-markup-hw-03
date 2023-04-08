@@ -45,6 +45,11 @@ padding: 0 15px;
 align-items: center;
 width: 1158px;
 }
+.main-nav{
+  display: flex;
+  align-items: center;
+
+}
 
 .logo{
   font-family: 'Raleway',sans-serif;
@@ -54,6 +59,7 @@ width: 1158px;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4D5AE5;
+  margin-right: 76px
 }
 .logo-studio-header {
     color: #2e2f42;
@@ -162,6 +168,7 @@ width: 1158px;
 }
 .img-team-list {
   background-color: #FFFFFF;
+  display: block;
 }
 
 .team-name{
