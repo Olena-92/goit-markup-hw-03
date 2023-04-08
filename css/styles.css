@@ -39,7 +39,13 @@ ul {
   text-decoration: none;
 }
 
+.container{
+display: flex;
+padding: 0 15px;
+align-items: center;
+width: 1158px;
 
+}
 
 .logo{
   font-family: 'Raleway',sans-serif;
