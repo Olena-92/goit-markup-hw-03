@@ -95,9 +95,16 @@ width: 1158px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
-  display: flex; 
-  gap: 40px;
-  padding: 24px 0 24px;
+  display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+width: 261px;
+height: 24px;
+left: 347px;
+top: 24px;
 }
 .list {
   list-style: none;
