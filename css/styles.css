@@ -118,7 +118,7 @@ width: 1158px;
 
 .section-hero {
   background-color: #2e2f42;
-  max-width: 496px; 
+  padding: 188px 0 188px
   
 }
 
@@ -129,6 +129,8 @@ width: 1158px;
   text-align: center;
   letter-spacing: 0.02em;
   color: #FFFFFF;
+  max-width: 496px; 
+  
 }
 
 .btn-cursor {
@@ -161,6 +163,7 @@ width: 1158px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color:#2e2f42;
+
 }
 
 .feature-list-desc {
