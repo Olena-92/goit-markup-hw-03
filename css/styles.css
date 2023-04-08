@@ -54,6 +54,15 @@ width: 1158px;
 
 }
 
+.section-hero-title{
+
+width: 496px;
+height: 120px;
+left: 472px;
+top: 260px;
+
+}
+
 .logo{
   font-family: 'Raleway',sans-serif;
   font-weight: 800;
@@ -156,7 +165,10 @@ width: 1158px;
   background-color: #404BBF;
 }
 
+.feature-title{
 
+  padding: 120px 0 120px
+}
 .feature-list-title {
   font-weight: 500;
   font-size: 20px;
