@@ -215,7 +215,9 @@ align-items: center;
 .section{
   padding-bottom: 120px;
 }
-
+.item-doing{
+  width: calc((100% - 72px) / 4);
+}
 .section-title {
   font-weight: 700;
   font-size: 36px;
@@ -235,6 +237,7 @@ align-items: center;
 .list-strategy:not(last-child){
   margin-right: 24px;
 }
+/*======Section3======*/
 .team-section {
   background-color:  #F4F4FD;
 }
@@ -244,7 +247,7 @@ align-items: center;
 .img{
   display: block;
 }
-/*======Section3======*/
+
 .team-name{
   font-weight: 500;
   font-size: 20px;
