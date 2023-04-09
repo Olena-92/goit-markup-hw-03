@@ -72,6 +72,13 @@ width: 1158px;
       color: #F4F4FD;    
   }
 
+.link-text{
+  display: flex; 
+  align-items: center; 
+}
+
+
+
 .address{ color: #434455;
 
 }
@@ -246,6 +253,7 @@ width: 1158px;
 /*======footer======*/
 .footer {
   background-color: #2E2F42;
+  padding: 100px 0 100px;
 }
 
 .footer-desc {
@@ -263,6 +271,8 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 color: #4D5AE5;
+display: inline-block; 
+margin-bottom: 16px; 
 }
 .logo-studio-footer{
 font-family: 'Raleway'sans-serif;
