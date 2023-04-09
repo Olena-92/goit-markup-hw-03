@@ -188,12 +188,12 @@ align-items: center;
 .list-strategy{
   display: flex;
 }
-.feature-list{
+.list{
   margin-right: 24px; 
   width: calc((100% - 3 * 24px) / 4);
 
 }
-.feature-list:nth-child(4n) {
+.list:nth-child(4n) {
   margin-right: 0;
 }
 .feature-list-title {
