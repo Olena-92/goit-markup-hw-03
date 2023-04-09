@@ -139,11 +139,11 @@ width: 1158px;
 }
 
 .btn-cursor {
-  cursor: pointer;
-  min-width: 169px;
+  padding: 16px 32px;
   height: 56px;
   border: none;
   border-radius: 4px;
+  display: block; 
 }
 
 .section-hero-button {
@@ -206,6 +206,8 @@ width: 1158px;
 }
 .img-team-list {
   background-color: #FFFFFF;
+}
+.img{
   display: block;
 }
 
