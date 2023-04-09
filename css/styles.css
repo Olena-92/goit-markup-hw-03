@@ -56,7 +56,7 @@ align-items: center;
   display: flex; 
   align-items: center;
 }
-.menu-item{
+.logo-studio-header{
   display: flex; 
   gap: 40px ;
 }
