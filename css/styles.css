@@ -102,7 +102,7 @@ width: 1158px;
   letter-spacing: 0.02em;
   color: #2e2f42;
   display: flex;
-  padding: 24px 0 24px
+  padding: 24px 0 24px;
 
 
 }
@@ -123,6 +123,9 @@ width: 1158px;
   letter-spacing: 0.02em;
   color: inherit;
   
+}
+.contacts-list{
+  display: flex;
 }
 
 
