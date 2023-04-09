@@ -356,7 +356,7 @@ color: #F4F4FD;
 }
 .border {
   padding: 32px 16px ;
- 
+  border-bottom: 1px solid #e7e9fc;
   }
 
 .list-filter{
