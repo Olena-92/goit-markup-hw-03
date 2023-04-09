@@ -344,9 +344,23 @@ color: #F4F4FD;
   letter-spacing: 0.02em;
   color:  #434455 ;
 }
+.border {
+  padding-top: 32px;
+  padding-bottom: 32px;
+  padding-left: 16px;
 
+  border-bottom: 1px solid #e7e9fc;
+  border-left: 1px solid #e7e9fc;
+  border-right: 1px solid #e7e9fc;
+}
 
-
+.list-filter{
+  justify-content: center;
+  margin-bottom: 72px;
+}
+.item-filter{
+  gap: 24px;
+}
 
 
 
