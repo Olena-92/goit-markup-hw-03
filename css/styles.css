@@ -292,8 +292,7 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 color: #4D5AE5;
-display: inline-block; 
-margin-bottom: 16px; 
+
 }
 .logo-studio-footer{
 font-family: 'Raleway'sans-serif;
@@ -302,6 +301,8 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 color: #F4F4FD;
+display: inline-block; 
+margin-bottom: 16px; 
 }
 
 
