@@ -360,12 +360,7 @@ margin-bottom: 16px;
 .list-filter{
   justify-content: center;
   margin-bottom: 72px;
-}
-.item-filter{
-  margin-right: 24px;
-}
-.item-filter:not(last-child){
-  margin-right: 24px;
+  gap: 24px;
 }
 
 .filter-buttons{
@@ -376,9 +371,14 @@ margin-bottom: 16px;
 .list-filter{
   flex-wrap: wrap;
   row-gap: 48px; 
+  column-gap: 24px; 
 }
-
-
+.section-filter{
+  padding: 96px 0 120px ;
+}
+.project-title{
+  margin-bottom: 8px;
+}
 
 
 
