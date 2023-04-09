@@ -329,6 +329,8 @@ margin-bottom: 16px;
 .filter-buttons:focus {
   background-color: #404bbf;
   color: #ffffff;
+  border: 1px solid transparent;
+  border: 1px solid transparent;
 }
 
 .project-title {
@@ -360,12 +362,21 @@ margin-bottom: 16px;
   margin-bottom: 72px;
 }
 .item-filter{
-  gap: 24px;
+  margin-right: 24px;
+}
+.item-filter:not(last-child){
+  margin-right: 24px;
 }
 
-
-
-
+.filter-buttons{
+  padding: 12px 24px 12px ;
+  border: 1px solid #e7e9fc ;
+  border-radius: 4px; 
+}
+.list-filter{
+  flex-wrap: wrap;
+  row-gap: 48px; 
+}
 
 
 
