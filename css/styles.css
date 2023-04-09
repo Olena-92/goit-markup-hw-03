@@ -215,7 +215,7 @@ align-items: center;
 .section{
   padding: 120px 0 120px ;
 }
-.list-doing{
+.list{
   width: calc((100% - 72px) / 4);
 }
 .section-title {
@@ -248,11 +248,11 @@ align-items: center;
   display: block;
 }
 
-.team-list{
+.tim-div{
   display: flex;
   gap: 24px; 
 }
-.img-team-list{
+.tim-div{
   flex-basis: calc((100% - 48px) / 3)
 }
 
