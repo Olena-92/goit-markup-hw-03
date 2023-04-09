@@ -382,6 +382,9 @@ margin-bottom: 16px;
   margin-right: 24px;
   margin-bottom: 48px;
 }
+.item-filter:nth-child(3n) {
+  margin-right: 0;
+}
 
 
 
