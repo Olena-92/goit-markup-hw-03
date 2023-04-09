@@ -52,6 +52,14 @@ align-items: center;
 
 /*======Heaadersection======*/
 
+.main-nav{
+  display: flex; 
+  align-items: center;
+}
+.menu-item{
+  display: flex; 
+  gap: 40px ;
+}
 .logo{
   font-family: 'Raleway',sans-serif;
   font-weight: 800;
