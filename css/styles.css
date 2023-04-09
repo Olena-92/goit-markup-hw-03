@@ -164,7 +164,8 @@ width: 1158px;
 
 .feature-title{
 
-  padding: 120px 0 120px
+  padding: 120px 0 120px;
+  margin-bottom: 72px; 
 }
 .feature-list-title {
   font-weight: 500;
@@ -172,7 +173,8 @@ width: 1158px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color:#2e2f42;
-
+  display: flex; 
+  gap: 24px; 
 }
 
 .feature-list-desc {
