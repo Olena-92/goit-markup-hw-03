@@ -323,10 +323,9 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 color: #F4F4FD;
-
 }
-.logo-link,
-.logo-studio-footer{
+
+.logo-link{
   display: inline-block;
   margin-bottom: 16px;
 }
@@ -414,10 +413,14 @@ img {
   display: block;
 }
 
+.list{
+  display: flex; 
+  gap: 40px ;
+}
 
-
-
-
+.menu-item{
+  gap: 40px;
+}
 
 
 
