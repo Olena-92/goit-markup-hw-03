@@ -139,8 +139,8 @@ margin-right: auto;
 .section-hero {
   background-color: #2e2f42;
   padding: 188px 0 188px;
-  text-align: center;
-  display: block; 
+  
+ 
   
 }
 
@@ -173,6 +173,9 @@ margin-right: auto;
   border: none;
   border-radius: 4px;
     cursor: pointer; 
+    display: block; 
+    margin-left:auto;
+    margin-right:auto ;
 }
 
 .section-hero-button:hover,
