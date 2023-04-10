@@ -192,7 +192,7 @@ align-items: center;
   padding: 120px 0 120px;
   
 }
-.list{
+.list-strategy{
   display: flex;
   gap: 24px;
 }
@@ -217,7 +217,7 @@ align-items: center;
 .section{
   padding: 120px 0 120px ;
 }
-.list{
+.list-doing{
   gap: 24px; 
 }
 .item-doing{
@@ -236,7 +236,7 @@ align-items: center;
 }
 
 /*======Section4======*/
-.list{
+.team-list{
   gap: 24px; 
 }
 
