@@ -120,6 +120,7 @@ align-items: center;
 
 .list {
   list-style: none;
+  gap: 40px ;
 }
 .contacts {
   font-style: normal;
