@@ -318,6 +318,11 @@ letter-spacing: 0.03em;
 color: #F4F4FD;
 
 }
+.logo-link,
+.logo-studio-footer{
+  display: inline-block;
+  margin-bottom: 16px;
+}
 
 
 
