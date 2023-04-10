@@ -114,9 +114,7 @@ align-items: center;
 
 
 }
-.link-text:not(last-child) {
-  margin-right: 40px;
-}
+
 
 .list {
   list-style: none;
@@ -410,7 +408,7 @@ img {
 }
 .list{
   display: flex; 
-  gap: 40px ;
+ 
  
 }
 
