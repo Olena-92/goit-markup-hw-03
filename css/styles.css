@@ -171,8 +171,7 @@ margin-right: auto;
   height: 56px;
   border: none;
   border-radius: 4px;
-  display: block; 
-  cursor: pointer; 
+    cursor: pointer; 
 }
 
 .section-hero-button:hover,
@@ -217,6 +216,7 @@ margin-right: auto;
 }
 .list-doing{
   gap: 24px; 
+  display: flex;
 }
 .item-doing{
  
@@ -236,6 +236,7 @@ margin-right: auto;
 /*======Section4======*/
 .team-list{
   gap: 24px; 
+  display: flex;
 }
 
 .team-section {
@@ -288,6 +289,7 @@ margin-right: auto;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #F4F4FD;
+  width: 264px;
 }
 .logo-link{
 font-family: 'Raleway', sans-serif;
@@ -313,7 +315,7 @@ color: #F4F4FD;
 .logo-link{
   display: inline-block;
   margin-bottom: 16px;
- 
+  text-transform: uppercase;
 }
 
 
