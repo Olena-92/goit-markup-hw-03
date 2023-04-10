@@ -407,9 +407,13 @@ img {
   display: block;
 }
 
+.list-filter{
+  gap: 24px; 
+}
 .list{
   display: flex; 
   gap: 40px ;
+ 
 }
 
 .menu-item{
