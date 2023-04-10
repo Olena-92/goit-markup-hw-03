@@ -365,12 +365,15 @@ color: #F4F4FD;
 .border {
   padding: 32px 16px ;
   border-bottom: 1px solid #e7e9fc;
+  border-right:1px solid #e7e9fc ;
+  border-left:1px solid #e7e9fc  ;
   }
 
 .list-filter{
-  justify-content: center;
-  margin-bottom: 72px;
+  display: flex;
+ flex-wrap: wrap;
   gap: 24px;
+row-gap: 48px;
 }
 
 .filter-buttons{
@@ -378,11 +381,12 @@ color: #F4F4FD;
   border: 1px solid #e7e9fc ;
   border-radius: 4px; 
 }
-.list-filter{
-  flex-wrap: wrap;
-  row-gap: 48px; 
-  column-gap: 24px; 
+.list-btn{
+display: flex;
+justify-content: center;
+gap: 24px;
 }
+
 .section-filter{
   padding: 96px 0 120px ;
 }
@@ -398,10 +402,6 @@ img {
   display: block;
 }
 
-.list-filter{
-  gap: 24px; 
-  row-gap: 48px;
-}
 
 
 .menu-item{
