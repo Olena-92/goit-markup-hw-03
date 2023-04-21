@@ -215,9 +215,8 @@ margin-right: auto;
 }
 
 /*======Section3======*/
-.section{
-  padding: 120px 0 120px ;
-}
+
+
 .list-doing{
   gap: 24px; 
   display: flex;
@@ -334,7 +333,7 @@ color: #F4F4FD;
 }
 .filter-buttons {
   background-color: #F4F4FD;
-
+  cursor: pointer;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
