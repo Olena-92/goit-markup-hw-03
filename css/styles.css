@@ -216,7 +216,9 @@ margin-right: auto;
 
 
 /*======Section3======*/
-
+.section-doing{
+  padding-top: 0;
+}
 
 .list-doing{
   gap: 24px; 
